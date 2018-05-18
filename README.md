@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/LuisOsnet/My-next-home.png?columns=all)](https://waffle.io/LuisOsnet/My-next-home?utm_source=badge)
 # My next home  :steam_locomotive::train::train::train::train::train:
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
